@@ -1,6 +1,6 @@
 ### Hi there 👋, Jaffer Ali
 #### MEAN Stack Developer
-![MEAN Stack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 I am a web developer who is passionate about making open-source more accessible and I really enjoy learning languages and frameworks like Angular and Express.js. and I am also enjoy to design User interface and integrate Rest API
 
